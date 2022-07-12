@@ -126,7 +126,7 @@ header {
   justify-content: center;
 }
 
-.dsmeta-red-btn {
+/* .dsmeta-red-btn {
   height: 45px;
   width: 45px;
   background: rgba(255, 107, 114, 0.1);
@@ -140,7 +140,7 @@ header {
 
 .dsmeta-red-btn img {
   width: 19px;
-}
+} */
 
 .show576 {
   display: none;
